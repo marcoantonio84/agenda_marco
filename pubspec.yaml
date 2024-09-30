@@ -1,0 +1,17 @@
+name: agendamarco2  # Defina o nome do seu projeto aqui
+description: A new Flutter project.  # Opcional, mas é bom ter uma descrição
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'  # Configuração do SDK conforme a mensagem
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mask_text_input_formatter: ^2.0.0  # Manter esse pacote
+  flutter_slidable: ^3.1.1  # Adicione esta linha
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# Outras configurações, se necessárias...
